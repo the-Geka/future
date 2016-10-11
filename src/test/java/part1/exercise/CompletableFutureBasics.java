@@ -9,7 +9,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.io.IOException;
-import java.security.cert.PKIXRevocationChecker;
 import java.util.List;
 import java.util.Map;
 import java.util.NoSuchElementException;
